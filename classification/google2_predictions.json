@@ -1,0 +1,65 @@
+{
+    "15.jpg": [
+        "flat 0.9403",
+        "natural 0.0558",
+        "whole_note 0.0022",
+        "sharp 0.0008",
+        "quarter_note 0.0003"
+    ],
+    "16.jpg": [
+        "quarter_note 0.9810",
+        "half_note 0.0109",
+        "eighth_note 0.0032",
+        "eighth_rest 0.0021",
+        "flat 0.0016"
+    ],
+    "17.jpg": [
+        "eighth_note 0.6176",
+        "half_rest 0.1703",
+        "whole_note 0.1039",
+        "whole_rest 0.0381",
+        "eighth_rest 0.0326"
+    ],
+    "18.jpg": [
+        "sharp 0.3130",
+        "half_note 0.2151",
+        "eighth_rest 0.1724",
+        "quarter_note 0.1255",
+        "eighth_note 0.0802"
+    ],
+    "2.jpg": [
+        "quarter_note 0.8923",
+        "half_note 0.1005",
+        "eighth_note 0.0028",
+        "flat 0.0020",
+        "quarter_rest 0.0008"
+    ],
+    "3.jpg": [
+        "whole_note 0.9066",
+        "half_note 0.0401",
+        "sharp 0.0229",
+        "natural 0.0192",
+        "quarter_rest 0.0072"
+    ],
+    "5.jpg": [
+        "quarter_note 0.4362",
+        "eighth_rest 0.3548",
+        "flat 0.0995",
+        "eighth_note 0.0644",
+        "natural 0.0155"
+    ],
+    "6.jpg": [
+        "flat 0.9823",
+        "quarter_note 0.0071",
+        "natural 0.0053",
+        "eighth_note 0.0019",
+        "whole_note 0.0016"
+    ],
+    "8.jpg": [
+        "eighth_note 0.9728",
+        "natural 0.0255",
+        "sharp 0.0014",
+        "half_note 0.0002",
+        "whole_note 0.0001"
+    ]
+}

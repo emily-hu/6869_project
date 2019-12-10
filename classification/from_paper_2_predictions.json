@@ -1,0 +1,100 @@
+{
+    "12.jpg": [
+        "eighth_note 1.0000",
+        "whole_note 0.0000",
+        "sharp 0.0000",
+        "quarter_rest 0.0000",
+        "half_rest 0.0000"
+    ],
+    "13.jpg": [
+        "quarter_note 0.9790",
+        "half_note 0.0119",
+        "eighth_note 0.0059",
+        "natural 0.0015",
+        "flat 0.0008"
+    ],
+    "14.jpg": [
+        "eighth_note 0.9999",
+        "sharp 0.0000",
+        "whole_note 0.0000",
+        "quarter_rest 0.0000",
+        "half_rest 0.0000"
+    ],
+    "15.jpg": [
+        "quarter_note 0.9680",
+        "half_note 0.0317",
+        "quarter_rest 0.0001",
+        "eighth_note 0.0001",
+        "flat 0.0001"
+    ],
+    "16.jpg": [
+        "quarter_note 0.9859",
+        "half_note 0.0125",
+        "flat 0.0006",
+        "quarter_rest 0.0004",
+        "eighth_note 0.0003"
+    ],
+    "17.jpg": [
+        "flat 0.9933",
+        "natural 0.0052",
+        "quarter_rest 0.0009",
+        "quarter_note 0.0005",
+        "half_note 0.0000"
+    ],
+    "19.jpg": [
+        "sharp 0.8589",
+        "natural 0.1389",
+        "flat 0.0016",
+        "quarter_note 0.0002",
+        "whole_note 0.0002"
+    ],
+    "3.jpg": [
+        "sharp 0.9983",
+        "natural 0.0015",
+        "flat 0.0002",
+        "whole_note 0.0000",
+        "half_note 0.0000"
+    ],
+    "4.jpg": [
+        "natural 0.9983",
+        "whole_note 0.0012",
+        "sharp 0.0003",
+        "flat 0.0002",
+        "quarter_rest 0.0000"
+    ],
+    "5.jpg": [
+        "quarter_note 0.9944",
+        "half_note 0.0040",
+        "eighth_note 0.0012",
+        "natural 0.0002",
+        "flat 0.0001"
+    ],
+    "6.jpg": [
+        "quarter_note 0.9947",
+        "half_note 0.0043",
+        "eighth_note 0.0007",
+        "quarter_rest 0.0001",
+        "flat 0.0001"
+    ],
+    "7.jpg": [
+        "quarter_note 0.9910",
+        "half_note 0.0059",
+        "eighth_note 0.0017",
+        "eighth_rest 0.0004",
+        "flat 0.0004"
+    ],
+    "8.jpg": [
+        "quarter_note 0.9875",
+        "eighth_note 0.0065",
+        "half_note 0.0037",
+        "flat 0.0018",
+        "quarter_rest 0.0002"
+    ],
+    "9.jpg": [
+        "quarter_note 0.9494",
+        "half_note 0.0503",
+        "eighth_note 0.0002",
+        "quarter_rest 0.0001",
+        "flat 0.0000"
+    ]
+}

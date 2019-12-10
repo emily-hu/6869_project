@@ -1,0 +1,79 @@
+{
+    "1.jpg": [
+        "quarter_note 0.9855",
+        "half_note 0.0129",
+        "flat 0.0005",
+        "eighth_note 0.0005",
+        "natural 0.0002"
+    ],
+    "10.jpg": [
+        "half_note 0.5747",
+        "quarter_note 0.4236",
+        "quarter_rest 0.0007",
+        "whole_note 0.0005",
+        "eighth_note 0.0003"
+    ],
+    "11.jpg": [
+        "quarter_note 0.9706",
+        "half_note 0.0156",
+        "flat 0.0038",
+        "eighth_note 0.0027",
+        "natural 0.0026"
+    ],
+    "12.jpg": [
+        "quarter_note 0.9744",
+        "half_note 0.0153",
+        "eighth_note 0.0030",
+        "flat 0.0024",
+        "sharp 0.0021"
+    ],
+    "16.jpg": [
+        "sharp 0.9989",
+        "natural 0.0011",
+        "flat 0.0000",
+        "quarter_rest 0.0000",
+        "half_note 0.0000"
+    ],
+    "2.jpg": [
+        "quarter_note 0.9919",
+        "half_note 0.0069",
+        "flat 0.0005",
+        "eighth_note 0.0003",
+        "natural 0.0002"
+    ],
+    "4.jpg": [
+        "quarter_note 0.8650",
+        "half_note 0.1286",
+        "eighth_note 0.0058",
+        "natural 0.0004",
+        "flat 0.0002"
+    ],
+    "5.jpg": [
+        "quarter_note 0.9806",
+        "half_note 0.0144",
+        "flat 0.0017",
+        "eighth_note 0.0010",
+        "eighth_rest 0.0007"
+    ],
+    "6.jpg": [
+        "quarter_note 0.9876",
+        "half_note 0.0119",
+        "eighth_note 0.0002",
+        "flat 0.0002",
+        "quarter_rest 0.0001"
+    ],
+    "7.jpg": [
+        "eighth_note 0.9729",
+        "half_note 0.0156",
+        "quarter_note 0.0045",
+        "sharp 0.0036",
+        "flat 0.0014"
+    ],
+    "9.jpg": [
+        "quarter_note 0.9826",
+        "half_note 0.0172",
+        "eighth_note 0.0001",
+        "quarter_rest 0.0001",
+        "flat 0.0000"
+    ]
+}
