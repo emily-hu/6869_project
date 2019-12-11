@@ -83,6 +83,7 @@ def compute_skew(img):
 def deskew(img, angle):# rotate the image to deskew it
 	'''
 	returns a new rotated image
+	uses code from https://www.pyimagesearch.com/2017/02/20/text-skew-correction-opencv-python/
 	'''
 	(h, w) = img.shape[:2]
 	center = (w // 2, h // 2)
